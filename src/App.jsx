@@ -72,7 +72,15 @@ const App = () => {
   const filteredProducts = activeCategory === 'All' ? productsList : productsList.filter(p => p.category === activeCategory);
 
   useEffect(() => {
-    fetchProducts();
+    // Global error logger to help debug white screen on GitHub Pages
+    window.onerror = function (msg, url, line, col, error) {
+      console.log('UNCAUGHT ERROR:', msg, 'at', url, ':', line, ':', col);
+    };
+
+    if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+      fetchProducts();
+    }
+
     const handleScroll = () => setIsScrolled(window.scrollY > 20);
     window.addEventListener('scroll', handleScroll);
 
