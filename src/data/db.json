@@ -6,7 +6,7 @@
       "category": "Reactive Dyes",
       "cas": "17095-24-8",
       "app": "Cotton, Viscose",
-      "image": "/images/products/reactive.png"
+      "image": "images/products/reactive.png"
     },
     {
       "id": "2",
@@ -14,7 +14,7 @@
       "category": "Reactive Dyes",
       "cas": "93050-80-7",
       "app": "Textile Dyeing",
-      "image": "/images/products/reactive.png"
+      "image": "images/products/reactive.png"
     },
     {
       "id": "3",
@@ -22,7 +22,7 @@
       "category": "Acid Dyes",
       "cas": "6844-74-2",
       "app": "Wool, Silk, Nylon",
-      "image": "/images/products/acid.png"
+      "image": "images/products/acid.png"
     },
     {
       "id": "4",
@@ -30,7 +30,7 @@
       "category": "Acid Dyes",
       "cas": "587-98-4",
       "app": "Leather, Paper",
-      "image": "/images/products/acid.png"
+      "image": "images/products/acid.png"
     },
     {
       "id": "5",
@@ -38,7 +38,7 @@
       "category": "Pigments",
       "cas": "1328-53-6",
       "app": "Inks, Plastics",
-      "image": "/images/products/pigments.png"
+      "image": "images/products/pigments.png"
     },
     {
       "id": "6",
@@ -46,7 +46,7 @@
       "category": "Direct Dyes",
       "cas": "1330-38-7",
       "app": "Paper, Textiles",
-      "image": "/images/products/reactive.png"
+      "image": "images/products/reactive.png"
     },
     {
       "id": "8",
@@ -54,7 +54,7 @@
       "category": "Disperse Dyes",
       "cas": "17418-58-5",
       "app": "Polyester",
-      "image": "/images/products/acid.png"
+      "image": "images/products/acid.png"
     }
   ],
   "users": [

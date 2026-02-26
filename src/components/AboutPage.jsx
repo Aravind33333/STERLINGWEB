@@ -41,7 +41,7 @@ const AboutPage = () => {
                         </div>
                         <div className="relative aspect-video bg-[#050769aa]/10 overflow-hidden">
                             <img
-                                src="/images/hero_2.png"
+                                src="images/hero_2.png"
                                 alt="Innovation"
                                 className="w-full h-full object-cover grayscale opacity-50"
                             />

@@ -6,7 +6,7 @@ const CorporateProfile = () => {
             <div className="max-w-7xl mx-auto px-6 grid lg:grid-cols-12 gap-16 items-center">
                 <div className="lg:col-span-5 relative">
                     <div className="aspect-[3/4] bg-[#dfdfdfe6] relative z-10">
-                        <div className="absolute inset-0 bg-cover bg-center grayscale mix-blend-multiply opacity-80" style={{ backgroundImage: 'url("/images/corporate_profile.png")' }}></div>
+                        <div className="absolute inset-0 bg-cover bg-center grayscale mix-blend-multiply opacity-80" style={{ backgroundImage: 'url("images/corporate_profile.png")' }}></div>
                         <div className="absolute inset-0 bg-[#050769aa]/10"></div>
                     </div>
                     <div className="absolute -bottom-8 -right-8 lg:-right-16 bg-[#050769aa] text-[#ffffff] p-8 lg:p-12 z-20 border-4 border-[#ffffff]">

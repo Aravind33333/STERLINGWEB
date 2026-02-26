@@ -35,7 +35,7 @@ const ProductCatalog = ({ categories, activeCategory, setActiveCategory, filtere
                         <div key={i} className="group bg-[#ffffff] border border-[#dfdfdfe6] hover:border-[#050769aa]/50 transition-all duration-300 overflow-hidden flex flex-col h-full">
                             <div className="h-48 bg-[#dfdfdfe6]/30 flex items-center justify-center border-b border-[#dfdfdfe6] relative overflow-hidden">
                                 <div className="absolute inset-0 bg-[#050769aa] opacity-0 group-hover:opacity-5 transition-opacity duration-500"></div>
-                                <img src={product.image || "/images/products/reactive.png"} alt={product.name} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+                                <img src={product.image || "images/products/reactive.png"} alt={product.name} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
                                 <span className="absolute top-3 right-3 text-[8px] font-black uppercase tracking-widest text-[#050769aa] bg-[#ffffff]/90 backdrop-blur-sm px-2 py-1 border border-[#dfdfdfe6] z-10">
                                     {product.category}
                                 </span>

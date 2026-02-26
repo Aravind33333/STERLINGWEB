@@ -16,7 +16,7 @@ const PrinciplesPage = () => {
 
             <section className="relative h-[500px] overflow-hidden">
                 <img
-                    src="/images/principles.png"
+                    src="images/principles.png"
                     alt="Sustainability"
                     className="w-full h-full object-cover"
                 />

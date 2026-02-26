@@ -52,19 +52,19 @@ const App = () => {
       title: "Pioneering the Future of Color",
       subtitle: "Manufacturing world-class Dyestuffs and Specialty Chemicals for the global textile and ink industries.",
       cta: "Explore Our Range",
-      image: "/images/hero_1.png"
+      image: "images/hero_1.png"
     },
     {
       title: "State-of-the-Art Infrastructure",
       subtitle: "Advanced manufacturing units and R&D labs ensuring precision in every molecular batch.",
       cta: "Technical Labs",
-      image: "/images/hero_2.png"
+      image: "images/hero_2.png"
     },
     {
       title: "ZDHC & ISO Certified Quality",
       subtitle: "Committed to sustainable chemical management and international safety standards.",
       cta: "Quality Control",
-      image: "/images/hero_3.png"
+      image: "images/hero_3.png"
     }
   ];
 

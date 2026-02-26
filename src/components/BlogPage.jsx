@@ -61,7 +61,7 @@ const BlogPage = () => {
                     <div className="lg:col-span-4 space-y-12">
                         <div className="relative aspect-square bg-[#050769aa]/10 overflow-hidden">
                             <img
-                                src="/images/blog_news.png"
+                                src="images/blog_news.png"
                                 alt="Newsletter"
                                 className="w-full h-full object-cover grayscale opacity-50"
                             />
