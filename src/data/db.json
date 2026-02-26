@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Reactive Black 5",
+      "category": "Reactive Dyes",
+      "cas": "17095-24-8",
+      "app": "Cotton, Viscose",
+      "image": "/images/products/reactive.png"
+    },
+    {
+      "id": "2",
+      "name": "Reactive Red 195",
+      "category": "Reactive Dyes",
+      "cas": "93050-80-7",
+      "app": "Textile Dyeing",
+      "image": "/images/products/reactive.png"
+    },
+    {
+      "id": "3",
+      "name": "Acid Blue 113",
+      "category": "Acid Dyes",
+      "cas": "6844-74-2",
+      "app": "Wool, Silk, Nylon",
+      "image": "/images/products/acid.png"
+    },
+    {
+      "id": "4",
+      "name": "Acid Yellow 36",
+      "category": "Acid Dyes",
+      "cas": "587-98-4",
+      "app": "Leather, Paper",
+      "image": "/images/products/acid.png"
+    },
+    {
+      "id": "5",
+      "name": "Pigment Green 7",
+      "category": "Pigments",
+      "cas": "1328-53-6",
+      "app": "Inks, Plastics",
+      "image": "/images/products/pigments.png"
+    },
+    {
+      "id": "6",
+      "name": "Direct Blue 86",
+      "category": "Direct Dyes",
+      "cas": "1330-38-7",
+      "app": "Paper, Textiles",
+      "image": "/images/products/reactive.png"
+    },
+    {
+      "id": "8",
+      "name": "Disperse Red 60",
+      "category": "Disperse Dyes",
+      "cas": "17418-58-5",
+      "app": "Polyester",
+      "image": "/images/products/acid.png"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "password123"
+    }
+  ]
+}

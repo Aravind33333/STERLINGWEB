@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #050769;
+  --color-secondary: #dfdfdf;
+}
+
+:root {
+  font-family: 'Inter', sans-serif;
+  color: #050769;
+  background-color: #ffffff;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+/* Custom styles for high-end look */
+.selection\:bg-primary::selection {
+  background-color: var(--color-primary);
+  color: white;
+}
+
+/* Smooth transitions for all elements */
+* {
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+}
